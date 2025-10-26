@@ -37,41 +37,44 @@ pada tampilan awal akan menampilkan tampilan login sign up dan keluar
 jika memilih login akan muncul pilih role sebagai admin dan customer
 
 <img width="380" height="379" alt="image" src="https://github.com/user-attachments/assets/69ef0efa-f7ca-4ad9-91d3-b00208275e70" /> <br>
-2.pada sign up akan mendaftarkan akun dulu dan memasukkan username, password, dan pin
+pada sign up akan mendaftarkan akun dulu dan memasukkan username, password, dan pin
 
 admin <br>
 1.
 <img width="780" height="522" alt="image" src="https://github.com/user-attachments/assets/e29b4d21-d7ed-49be-aa26-446c0322c681" /> <br> 
-menu tampilan untuk admin
+tampilan menu awal untuk admin
 
 2.
 <img width="590" height="335" alt="image" src="https://github.com/user-attachments/assets/4426ab7c-07e4-4ea0-9ce2-c382a845c2e0" /> <br>
-tambah layanan untuk menambah pesanan baru
+pilihan 1 tambah layanan untuk menambah pesanan baru
 
 3.
 <img width="1314" height="406" alt="image" src="https://github.com/user-attachments/assets/ec947193-e8d1-4e8d-9ccd-60fa7e85ad2d" /> <br>
-tampilan nomor antrian yang ada
+pilihan 2 tampilan nomor antrian yang ada
 
 4.
 <img width="821" height="377" alt="image" src="https://github.com/user-attachments/assets/05448d21-389f-4160-a798-cf6ec1081415" /> <br>
-memilih nomor antrian untuk mengubah statusnya
+pilihan 3 memilih nomor antrian untuk mengubah statusnya
 
 
 <img width="798" height="343" alt="image" src="https://github.com/user-attachments/assets/66e07026-5686-4cce-b30d-d8000207d150" /> <br>
 ada 2 pilihan yaitu belum terbayar dan terbayar
 
 
-<img width="598" height="215" alt="image" src="https://github.com/user-attachments/assets/f3b2d681-bf1a-48ad-88f5-6f675dce4224" /> <br>
-
-
 5.
-<img width="739" height="351" alt="image" src="https://github.com/user-attachments/assets/48b2accd-ec75-4317-8444-79728a0f8104" /> <br>
-
-
+<img width="598" height="215" alt="image" src="https://github.com/user-attachments/assets/f3b2d681-bf1a-48ad-88f5-6f675dce4224" /> <br>
+pilihan 4 untuk menghapus data antrian
 
 6.
-<img width="1080" height="363" alt="image" src="https://github.com/user-attachments/assets/d8aefe8c-e57d-4d66-8d82-b73ba4db78d9" /> <br>
+<img width="739" height="351" alt="image" src="https://github.com/user-attachments/assets/48b2accd-ec75-4317-8444-79728a0f8104" /> <br>
+pilihan 5 untuk melihat daftar akun customer (username)
 
+
+7.
+<img width="1080" height="363" alt="image" src="https://github.com/user-attachments/assets/d8aefe8c-e57d-4d66-8d82-b73ba4db78d9" /> <br>
+pilihan 6 untuk menerima pesanan dari customer apakah bisa dikerjakan oleh tim IT Support atau tidak
+
+8.
 customer:
 
 
