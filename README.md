@@ -42,27 +42,24 @@ Customer memiliki fitur yaitu Pesan Layanan, Lihat Antrian, Bayar Layanan, Cek S
 <img width="385" height="315" alt="image" src="https://github.com/user-attachments/assets/4d70cc39-87e0-4323-97c6-3671cebad039" />
 
 admin
-<img width="780" height="522" alt="image" src="https://github.com/user-attachments/assets/e29b4d21-d7ed-49be-aa26-446c0322c681" />
+1.<img width="780" height="522" alt="image" src="https://github.com/user-attachments/assets/e29b4d21-d7ed-49be-aa26-446c0322c681" />
 
 
-<img width="590" height="335" alt="image" src="https://github.com/user-attachments/assets/4426ab7c-07e4-4ea0-9ce2-c382a845c2e0" />
+2.<img width="590" height="335" alt="image" src="https://github.com/user-attachments/assets/4426ab7c-07e4-4ea0-9ce2-c382a845c2e0" />
 
 
-<img width="1314" height="406" alt="image" src="https://github.com/user-attachments/assets/ec947193-e8d1-4e8d-9ccd-60fa7e85ad2d" />
+3.<img width="1314" height="406" alt="image" src="https://github.com/user-attachments/assets/ec947193-e8d1-4e8d-9ccd-60fa7e85ad2d" />
 
 
-<img width="821" height="377" alt="image" src="https://github.com/user-attachments/assets/05448d21-389f-4160-a798-cf6ec1081415" />
+4.<img width="821" height="377" alt="image" src="https://github.com/user-attachments/assets/05448d21-389f-4160-a798-cf6ec1081415" />
 
-
-<img width="1229" height="424" alt="image" src="https://github.com/user-attachments/assets/b0d36136-c76c-4a9b-9aa9-ea873f2c19eb" />
 
 
 <img width="798" height="343" alt="image" src="https://github.com/user-attachments/assets/66e07026-5686-4cce-b30d-d8000207d150" />
 
+customer:
 
 <img width="671" height="293" alt="image" src="https://github.com/user-attachments/assets/ef6ac531-d69c-4f4e-b570-61f32ef64637" />
-
-
 
 
 
