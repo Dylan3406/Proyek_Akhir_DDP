@@ -75,6 +75,9 @@ pilihan 5 untuk melihat daftar akun customer (username)
 pilihan 6 untuk menerima pesanan dari customer apakah bisa dikerjakan oleh tim IT Support atau tidak
 
 8.
+<img width="1017" height="369" alt="image" src="https://github.com/user-attachments/assets/1866b49c-ff18-4828-8c2c-4185e6ee15b5" /> <br>
+pilihan 7 admin bisa menerima pesanan atau menolak pesanan dari customer
+
 customer:
 
 
