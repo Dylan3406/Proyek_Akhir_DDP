@@ -18,3 +18,13 @@ MENU CUSTOMER:
 
 <img width="4876" height="6384" alt="Project Akhir-Customer drawio(1)" src="https://github.com/user-attachments/assets/864d6957-c260-4a6d-a02e-c9d0f0bdad38" />
 
+#DESKRIPSI SINGKAT:
+ Program Sistem Pemesanan Layanan IT Support adalah program yang dapat memudahkan pemesanan layanan IT support untuk orang orang yang ingin memesan layanan jika terjadi masalah pada teknologi yang dimiliki,program ini dapat memudahkan orang dari memesan layanan dan melihat nomor antrian.jadi program ini dapat membambantu agar customer mudah dalam melakukan pemesanan dan dapat memantau pesanan dari diri sendiri.
+
+#FITUR:
+ADMIN:
+admin memiliki fitur yaitu Tambah Pesanan, Lihat Antrian, Perbarui Data Layanan Service, Hapus Data Antrian, Lihat Customers, Perbarui Status Pembayaran, dan Terima Pesanan Baru.
+Customer:
+Customer memiliki fitur yaitu Pesan Layanan, Lihat Antrian, Bayar Layanan, Cek Saldo, dan Top Up Saldo.
+
+#OUTPUT:
