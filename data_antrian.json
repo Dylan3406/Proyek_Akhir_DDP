@@ -1,0 +1,72 @@
+[
+    {
+        "Nama": "rama",
+        "No HP": "08768594423",
+        "Alamat": "aluan",
+        "Nomor Antrian": 2,
+        "ID Pemesanan": 1,
+        "Keluhan": "Wifi Rusak",
+        "Waktu Daftar": "2025-10-26 22:15:14",
+        "Status": "Selesai",
+        "Biaya": 40000.0,
+        "Status Pembayaran": "Terbayar",
+        "Username": "RAMA",
+        "Waktu Diterima": "2025-10-26 22:15:54"
+    },
+    {
+        "Nama": "DYLAN",
+        "No HP": "087865543627",
+        "Alamat": "aluan",
+        "Nomor Antrian": 3,
+        "ID Pemesanan": 2,
+        "Keluhan": "laptop rusak",
+        "Waktu Daftar": "2025-10-26 23:04:29",
+        "Status": "Selesai",
+        "Biaya": 20000.0,
+        "Status Pembayaran": "Terbayar",
+        "Username": "DYLAN",
+        "Waktu Diterima": "2025-10-26 23:07:00"
+    },
+    {
+        "Nama": "DYLAN",
+        "No HP": "08765748458",
+        "Alamat": "ALUAN",
+        "Nomor Antrian": 4,
+        "ID Pemesanan": 3,
+        "Keluhan": "WIFI RUSAK",
+        "Waktu Daftar": "2025-10-26 23:24:14",
+        "Status": "Selesai",
+        "Biaya": 20000.0,
+        "Status Pembayaran": "Terbayar",
+        "Username": "DYLAN",
+        "Waktu Diterima": "2025-10-26 23:24:37"
+    },
+    {
+        "Nama": "RAMA",
+        "No HP": "087815521702",
+        "Alamat": "ALUAN",
+        "Nomor Antrian": 5,
+        "ID Pemesanan": 4,
+        "Keluhan": "LAPTOP BLUE SCREEN",
+        "Waktu Daftar": "2025-10-26 23:33:17",
+        "Status": "Menunggu",
+        "Biaya": 0,
+        "Status Pembayaran": "Belum Dibayar",
+        "Username": "RAMA",
+        "Waktu Diterima": "2025-10-26 23:34:00"
+    },
+    {
+        "Nama": "yudha",
+        "No HP": "0987658698576",
+        "Alamat": "bengkuring",
+        "Nomor Antrian": 6,
+        "ID Pemesanan": 5,
+        "Keluhan": "layar laptop tidak menyala",
+        "Waktu Daftar": "2025-10-27 00:00:38",
+        "Status": "Menunggu",
+        "Biaya": 0,
+        "Status Pembayaran": "Belum Dibayar",
+        "Username": "yudha",
+        "Waktu Diterima": "2025-10-27 00:01:20"
+    }
+]

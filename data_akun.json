@@ -1,0 +1,26 @@
+[
+    {
+        "username": "darma",
+        "password": "123123123",
+        "saldo": 50000,
+        "pin": "1234"
+    },
+    {
+        "username": "RAMA",
+        "password": "123456789",
+        "saldo": 0,
+        "pin": "1234"
+    },
+    {
+        "username": "DYLAN",
+        "password": "987654321",
+        "saldo": 0.0,
+        "pin": "1234"
+    },
+    {
+        "username": "yudha",
+        "password": "987654321",
+        "saldo": 0,
+        "pin": "1234"
+    }
+]
