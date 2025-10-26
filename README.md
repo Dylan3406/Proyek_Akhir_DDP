@@ -42,16 +42,20 @@ Customer memiliki fitur yaitu Pesan Layanan, Lihat Antrian, Bayar Layanan, Cek S
 <img width="385" height="315" alt="image" src="https://github.com/user-attachments/assets/4d70cc39-87e0-4323-97c6-3671cebad039" /> <br> 
 
 admin <br>
-1.<img width="780" height="522" alt="image" src="https://github.com/user-attachments/assets/e29b4d21-d7ed-49be-aa26-446c0322c681" /> <br> 
+1.
+<img width="780" height="522" alt="image" src="https://github.com/user-attachments/assets/e29b4d21-d7ed-49be-aa26-446c0322c681" /> <br> 
 
 
-2.<img width="590" height="335" alt="image" src="https://github.com/user-attachments/assets/4426ab7c-07e4-4ea0-9ce2-c382a845c2e0" /> <br>
+2.
+<img width="590" height="335" alt="image" src="https://github.com/user-attachments/assets/4426ab7c-07e4-4ea0-9ce2-c382a845c2e0" /> <br>
 
 
-3.<img width="1314" height="406" alt="image" src="https://github.com/user-attachments/assets/ec947193-e8d1-4e8d-9ccd-60fa7e85ad2d" /> <br>
+3.
+<img width="1314" height="406" alt="image" src="https://github.com/user-attachments/assets/ec947193-e8d1-4e8d-9ccd-60fa7e85ad2d" /> <br>
 
 
-4.<img width="821" height="377" alt="image" src="https://github.com/user-attachments/assets/05448d21-389f-4160-a798-cf6ec1081415" /> <br>
+4.
+<img width="821" height="377" alt="image" src="https://github.com/user-attachments/assets/05448d21-389f-4160-a798-cf6ec1081415" /> <br>
 
 <img width="798" height="343" alt="image" src="https://github.com/user-attachments/assets/66e07026-5686-4cce-b30d-d8000207d150" /> <br>
 
@@ -59,25 +63,39 @@ admin <br>
 <img width="598" height="215" alt="image" src="https://github.com/user-attachments/assets/f3b2d681-bf1a-48ad-88f5-6f675dce4224" /> <br>
 
 
-5.<img width="739" height="351" alt="image" src="https://github.com/user-attachments/assets/48b2accd-ec75-4317-8444-79728a0f8104" /> <br>
+5.
+<img width="739" height="351" alt="image" src="https://github.com/user-attachments/assets/48b2accd-ec75-4317-8444-79728a0f8104" /> <br>
 
 
-6.<img width="725" height="343" alt="image" src="https://github.com/user-attachments/assets/8c64f89f-ae62-417d-8813-5ef70fc24348" /> <br>
+6.
+<img width="725" height="343" alt="image" src="https://github.com/user-attachments/assets/8c64f89f-ae62-417d-8813-5ef70fc24348" /> <br>
 
-7.<img width="1080" height="363" alt="image" src="https://github.com/user-attachments/assets/d8aefe8c-e57d-4d66-8d82-b73ba4db78d9" /> <br>
+7.
+<img width="1080" height="363" alt="image" src="https://github.com/user-attachments/assets/d8aefe8c-e57d-4d66-8d82-b73ba4db78d9" /> <br>
 
 customer:
-1.<img width="839" height="445" alt="image" src="https://github.com/user-attachments/assets/8349b667-2908-4433-8e37-ae0fbb701146" /> <br>
-
-2.<img width="671" height="293" alt="image" src="https://github.com/user-attachments/assets/ef6ac531-d69c-4f4e-b570-61f32ef64637" /> <br>
-
-3.<img width="1203" height="286" alt="image" src="https://github.com/user-attachments/assets/5ed9c520-a7e0-4a57-b092-66d9fb811f75" /> <br>
-
-4.<img width="897" height="614" alt="image" src="https://github.com/user-attachments/assets/b51b579a-619b-415d-91de-d998322296f1" /> <br>
 
 
-5.<img width="524" height="193" alt="image" src="https://github.com/user-attachments/assets/465e09ca-8390-45f9-8893-05481a96efee" /> <br>
+1.
+<img width="839" height="445" alt="image" src="https://github.com/user-attachments/assets/8349b667-2908-4433-8e37-ae0fbb701146" /> <br>
 
 
-6.<img width="762" height="425" alt="image" src="https://github.com/user-attachments/assets/c4e72d63-8782-430e-a3b4-886853b3c75e" /> <br>
+2.
+<img width="671" height="293" alt="image" src="https://github.com/user-attachments/assets/ef6ac531-d69c-4f4e-b570-61f32ef64637" /> <br>
+
+
+3.
+<img width="1203" height="286" alt="image" src="https://github.com/user-attachments/assets/5ed9c520-a7e0-4a57-b092-66d9fb811f75" /> <br>
+
+
+4.
+<img width="897" height="614" alt="image" src="https://github.com/user-attachments/assets/b51b579a-619b-415d-91de-d998322296f1" /> <br>
+
+
+5.
+<img width="524" height="193" alt="image" src="https://github.com/user-attachments/assets/465e09ca-8390-45f9-8893-05481a96efee" /> <br>
+
+
+6.
+<img width="762" height="425" alt="image" src="https://github.com/user-attachments/assets/c4e72d63-8782-430e-a3b4-886853b3c75e" /> <br>
 
